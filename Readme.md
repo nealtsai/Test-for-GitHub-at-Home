@@ -1,3 +1,24 @@
+# [CS253] HomeWork 01 #
+
+## 以類別包裝的猜拳遊戲##
+
+### This is an H3 ######
+
+
+
+[CS253] HomeWork 01
+以類別包裝的猜拳遊戲
+1. 程式規格，
+2. 變數與類別設計，
+3. 方法的使用，
+4. 執行畫面的結圖，
+5. 參考資料
+6. 可能的加強
+
+
+
+
+
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
     Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
     viverra nec, fringilla in, laoreet vitae, risus.
